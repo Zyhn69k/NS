@@ -9,17 +9,17 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "𝗝𝗜𝗦𝗔𝗡-𝗕𝗢𝗧",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "100028030566588",
+    "100028030566588"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100028030566588",
     ""
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["100028030566588"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
